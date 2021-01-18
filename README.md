@@ -1,1 +1,1 @@
-# Angular-assignments
+Angular assignments.
